@@ -9,19 +9,17 @@ Web Development Based on PHP
   - 常用函数（文件目录、日期时间、字符串、数组、正则表达式）
   - 面向对象 OOP
 
-- **指南 & 规范** 
- [PHP 最佳实践](http://phpbestpractices.justjavac.com/) 
-
- [PHP之道](http://wulijun.github.io/php-the-right-way/) 
- 
+- **指南 & 规范**  
+ [PHP 最佳实践](http://phpbestpractices.justjavac.com/)  
+ [PHP之道](http://wulijun.github.io/php-the-right-way/)  
  [PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html) 
  
 - **Book**
-[PHP 手册](http://www.kuaipan.cn/file/id_119395795866017.htm)
-[细说PHP](http://www.kuaipan.cn/file/id_119395795863607.htm)
-[PHP5  面向对象初步](http://www.kuaipan.cn/file/id_119395795863777.htm)
-[PHP与MySQL程序设计(第3版)](http://www.kuaipan.cn/file/id_119395795863543.htm)
-[PHP高级程序设计、模式、框架与测试](http://www.kuaipan.cn/file/id_119395795863538.htm)
+[PHP 手册](http://www.kuaipan.cn/file/id_119395795866017.htm)  
+[细说PHP](http://www.kuaipan.cn/file/id_119395795863607.htm)  
+[PHP5  面向对象初步](http://www.kuaipan.cn/file/id_119395795863777.htm)  
+[PHP与MySQL程序设计(第3版)](http://www.kuaipan.cn/file/id_119395795863543.htm)  
+[PHP高级程序设计、模式、框架与测试](http://www.kuaipan.cn/file/id_119395795863538.htm)  
 [PHP实用指南](http://www.kuaipan.cn/file/id_119395795863391.htm)
 
 - **网站**
