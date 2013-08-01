@@ -70,7 +70,7 @@ Web Development Based on PHP
 [Google HTML/CSS代码风格指南](http://chajn.org/htmlcssguide/htmlcssguide.html)  
 [让你的CSS更尽完美的技巧](http://www.w3cplus.com/css/tips-to-write-better-css-code)  
 
-- **Book & 教程 **
+- **Book & 教程**  
 [CSS参考手册](http://www.kuaipan.cn/file/id_119395795863569.htm)  
 [CSS2规范](http://www.kuaipan.cn/file/id_119395795863178.htm)  
 [html.net CSS教程](http://zh.html.net/tutorials/css/)  
