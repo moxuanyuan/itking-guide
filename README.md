@@ -10,10 +10,10 @@ Web Development Based on PHP
   - 面向对象 OOP
 
 - **指南 & 规范** 
- [PHP 最佳实践](http://phpbestpractices.justjavac.com/)
- [PHP之道](http://wulijun.github.io/php-the-right-way/)
- [PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html)
-
+ [PHP 最佳实践](http://phpbestpractices.justjavac.com/) 
+ [PHP之道](http://wulijun.github.io/php-the-right-way/) 
+ [PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html) 
+ 
 - **Book**
 [PHP 手册](http://www.kuaipan.cn/file/id_119395795866017.htm)
 [细说PHP](http://www.kuaipan.cn/file/id_119395795863607.htm)
