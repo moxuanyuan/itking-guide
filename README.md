@@ -44,12 +44,12 @@ Web Development Based on PHP
 [phpwind HTML规范指南](http://wiki.open.phpwind.com/index.php?title=HTML%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97)  
 [Google HTML/CSS代码风格指南](http://chajn.org/htmlcssguide/htmlcssguide.html)
 
-- **Book & 教程 **  
+- **Book & 教程**  
 [梦之都 HTML教程 ](http://www.dreamdu.com/xhtml/)  
 [html.net HTML教程](http://zh.html.net/tutorials/html/)  
 [HTML、XHTML和CSS宝典（第4版）](http://www.kuaipan.cn/file/id_119395795873610.htm)  
 
-- **网站**
+- **网站**  
 [w3school](http://www.w3school.com.cn/)  
 [MOZILLA 开发者网络 - HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)  
 
@@ -62,7 +62,7 @@ Web Development Based on PHP
   - 常见布局的实现。
   - 浏览器兼容性知识。
 
-- **指南 & 规范**   
+- **指南 & 规范**  
 [The CSS Lint Rules](http://csslint.net/about.html)  
 [19UED前端CSS代码规范 V1.0](http://blog.19ued.com/?p=1507)  
 [豆瓣网前端开发规范之-css开发规范](http://hackerwit.com/docs/Douban-CSS-Code-Guideline.htm)  
@@ -102,14 +102,14 @@ Web Development Based on PHP
   - DOM元素的创建、修改、删除等操作。 
   - 常用框架的熟悉程度。 
   - AJAX的运作过程。
-- **指南 & 规范**   
+- **指南 & 规范**  
 [Google JavaScript代码风格指南](http://chajn.org/jsguide/javascriptguide.html)  
 [豆瓣Javascript代码风格规范](http://hackerwit.com/docs/Douban-Javascript-Core-Style-Guideline.htm)  
 [Dojo Javascript 编程规范](https://code.google.com/p/grace/wiki/DojoStyle)  
 [高质量JavaScript代码书写基本要点](http://www.zhangxinxu.com/wordpress/?p=1173)  
 [编写高效JavaScript的二十四章经](http://article.yeeyan.org/view/72286/46746)  
 
-- **Book & 教程 **  
+- **Book & 教程**    
 [JScript 手册](http://www.kuaipan.cn/file/id_119395795863618.htm)  
 [JavaScript 权威指南（第四版）](http://www.kuaipan.cn/file/id_119395795870592.htm)  
 [JavaScript DOM编程艺术（第2版）](http://www.kuaipan.cn/file/id_119395795866019.htm)  
@@ -130,7 +130,7 @@ Web Development Based on PHP
   - 数据查询(DQL)，例如：SELECT 、WHERE、JOIN、ORDER BY、LIMIT
   - 数据表设计
 
-- **Book & 教程 **  
+- **Book & 教程**  
 [w3school SQL 教程](http://www.w3school.com.cn/sql/index.asp)  
 [SQL Cookbook](http://www.kuaipan.cn/file/id_119395795864115.htm)  
 [数据库设计指南](http://www.kuaipan.cn/file/id_119395795863836.htm)  
@@ -142,7 +142,7 @@ Web Development Based on PHP
 [MySQL数据库开发的三十六条军规](http://www.cnblogs.com/whoknows/articles/2248490.html)  
 
 ##框架
-- **PHP : CodeIgniter **  
+- **PHP : CodeIgniter**  
 [CodeIgniter 用户指南 (在线最新版)](http://codeigniter.org.cn/user_guide/toc.html)  
 [CodeIgniter 用户指南 (离线手册)](http://www.kuaipan.cn/file/id_119395795865661.htm)  
 [PHP 敏捷开发框架 CodeIgniter - 快速 Web 应用开发详解](http://www.kuaipan.cn/file/id_119395795863474.htm)  
