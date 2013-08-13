@@ -3,7 +3,7 @@ Framework & Library
 
 ##PHP
 ###Framework
-[CodeIgniter](http://codeigniter.org.cn/)  
+[CodeIgniter](http://codeigniter.org.cn/)	
 [Laravel 4](http://laravel.com/)	
 
 ###Databse 数据库 ORM
@@ -52,6 +52,10 @@ Framework & Library
 ###Mobile
 [jQuery Mobile](http://jquerymobile.com/)	
 
+##MV* framework
+[AngularJS](http://angularjs.org/)	
+[Ember.js](http://emberjs.com/)	
+
 ##Other
 [Sea.js](http://seajs.org/docs/)	
-[juicer](http://juicer.name/)  
+[juicer](http://juicer.name/) 
