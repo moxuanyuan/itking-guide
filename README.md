@@ -1,4 +1,4 @@
-Web Development Based on PHP
+Web Development Based on PHP General Guide  
 ============
 希望通过整理以下的资源，让大家可以更高效、规范开发。  
 欢迎大家提供意见、资源，来完善这份指南。
@@ -10,14 +10,15 @@ Web Development Based on PHP
   - 面向对象 OOP
 
 - **指南 & 规范**    
- [PHP 最佳实践](http://phpbestpractices.justjavac.com/)  
- [PHP之道](http://wulijun.github.io/php-the-right-way/)  
- [PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html) 
+[PHP 最佳实践](http://phpbestpractices.justjavac.com/)  
+[PHP之道](http://wulijun.github.io/php-the-right-way/)  
+[PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html) 
+[PHP PSR代码标准中文版](https://github.com/hfcorriez/fig-standards) 
  
 - **Book**  
 [PHP 手册](http://www.kuaipan.cn/file/id_119395795866017.htm)  
 [细说PHP](http://www.kuaipan.cn/file/id_119395795863607.htm)  
-[PHP5  面向对象初步](http://www.kuaipan.cn/file/id_119395795863777.htm)  
+[PHP5 面向对象初步](http://www.kuaipan.cn/file/id_119395795863777.htm)  
 [PHP与MySQL程序设计(第3版)](http://www.kuaipan.cn/file/id_119395795863543.htm)  
 [PHP高级程序设计、模式、框架与测试](http://www.kuaipan.cn/file/id_119395795863538.htm)  
 [PHP实用指南](http://www.kuaipan.cn/file/id_119395795863391.htm)
@@ -27,7 +28,7 @@ Web Development Based on PHP
 [Blog - 风雪之隅](http://www.laruence.com/)
 
 - **参考**  
-[PHPChina精华贴收集贴](http://hi.baidu.com/1986stone/item/de982a94a9b8f5dc1a49df6e)
+[PHPChina精华贴收集贴](http://hi.baidu.com/1986stone/item/de982a94a9b8f5dc1a49df6e)  
 
 ##HTML
 - **必知必会**
@@ -36,10 +37,10 @@ Web Development Based on PHP
   - HTML元素语义性。
 
 - **指南 & 规范**   
- [30条HTML代码编写指南 for入门者](http://paranimage.com/30-html-guidelines-for-beginners/)  
- [(X)HTML Strict 下的嵌套规则](http://www.wufangbo.com/xhtml-strict-nested/)  
- [这样去写你的 HTML](http://sofish.de/1688)  
- [NEC 网易（杭州）HTML规范 ](http://nec.netease.com/standard/html-structure.html)  
+[30条HTML代码编写指南 for入门者](http://paranimage.com/30-html-guidelines-for-beginners/)  
+[(X)HTML Strict 下的嵌套规则](http://www.wufangbo.com/xhtml-strict-nested/)  
+[这样去写你的 HTML](http://sofish.de/1688)  
+[NEC 网易（杭州）HTML规范 ](http://nec.netease.com/standard/html-structure.html)  
 [KISSY 框架的HTML 编码规范](http://docs.kissyui.com/docs/html/tutorials/style-guide/html-coding-style.html)  
 [phpwind HTML规范指南](http://wiki.open.phpwind.com/index.php?title=HTML%E8%A7%84%E8%8C%83%E6%8C%87%E5%8D%97)  
 [Google HTML/CSS代码风格指南](http://chajn.org/htmlcssguide/htmlcssguide.html)
@@ -102,6 +103,7 @@ Web Development Based on PHP
   - DOM元素的创建、修改、删除等操作。 
   - 常用框架的熟悉程度。 
   - AJAX的运作过程。
+  
 - **指南 & 规范**  
 [Google JavaScript代码风格指南](http://chajn.org/jsguide/javascriptguide.html)  
 [豆瓣Javascript代码风格规范](http://hackerwit.com/docs/Douban-Javascript-Core-Style-Guideline.htm)  
@@ -146,9 +148,9 @@ Web Development Based on PHP
 [CodeIgniter 用户指南 (在线最新版)](http://codeigniter.org.cn/user_guide/toc.html)  
 [CodeIgniter 用户指南 (离线手册)](http://www.kuaipan.cn/file/id_119395795865661.htm)  
 [PHP 敏捷开发框架 CodeIgniter - 快速 Web 应用开发详解](http://www.kuaipan.cn/file/id_119395795863474.htm)  
-[CodeIgniter 教程资源索引](http://codeigniter.org.cn/forums/thread-214-1-1.html)
+[CodeIgniter 教程资源索引](http://codeigniter.org.cn/forums/thread-214-1-1.html)	
 
-- **JavaScript :  jQuery**  
+- **JavaScript : jQuery**  
 [jQuery 手册](http://www.kuaipan.cn/file/id_119395795873613.htm)  
 [锋利的jQuery (第2版)](http://www.kuaipan.cn/file/id_119395795876976.htm)  
 [jQuery设计思想](http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html)  
@@ -156,28 +158,28 @@ Web Development Based on PHP
 
 - **CSS**  
 [Bootstrap](http://getbootstrap.com/)  
-[Alice](http://aliceui.org)  
-[NEC](http://nec.netease.com/)  
-[normalize.css](http://necolas.github.io/normalize.css/)
+[Alice](http://aliceui.org)  	
+[NEC](http://nec.netease.com/)  	
+[normalize.css](http://necolas.github.io/normalize.css/)	
 
 ##工具
 - **编辑器**  
-Notepad++ [<官方下载>](http://notepad-plus-plus.org/download/v6.4.3.html) [<莫傻瓜自用版>](http://www.kuaipan.cn/file/id_119395795878530.htm)  
-Sublime Text  [<介绍>](http://www.iplaysoft.com/sublimetext.html)  
+Notepad++ [<官方下载>](http://notepad-plus-plus.org/download/v6.4.3.html) [<莫傻瓜自用版>](http://www.kuaipan.cn/file/id_119395795878530.htm)  	
+Sublime Text [<介绍>](http://www.iplaysoft.com/sublimetext.html)  	
 
 - **浏览器**  
-Chrome [<官方下载>](https://www.google.com/intl/zh-CN/chrome/browser/)
+Chrome [<官方下载>](https://www.google.com/intl/zh-CN/chrome/browser/)	
 
 - **FTP**  
-FileZilla [<官方下载>](https://filezilla-project.org/download.php?type=client)
+FileZilla [<官方下载>](https://filezilla-project.org/download.php?type=client)	
 
 - **PHP集成环境**  
-xampp [<官方下载>](http://www.apachefriends.org/en/xampp-windows.html)  
-wamp  [<官方下载>](http://www.wampserver.com/en/)
+xampp [<官方下载>](http://www.apachefriends.org/en/xampp-windows.html)  	
+wamp  [<官方下载>](http://www.wampserver.com/en/)	
 
 - **Mysql管理**  
 HeidiSQL [<官方下载>](http://www.heidisql.com/download.php)  
-phpMyAdmin [<官方下载>](http://www.heidisql.com/download.php)
+phpMyAdmin [<官方下载>](http://www.heidisql.com/download.php)	
 
 ##网站推荐  
 [开源中国](http://www.oschina.net/)  
@@ -185,12 +187,13 @@ phpMyAdmin [<官方下载>](http://www.heidisql.com/download.php)
 [Stack Overflow](http://stackoverflow.com/)  
 [SegmentFault](http://segmentfault.com/)  
 [developerWorks : Web 开发专区](http://www.ibm.com/developerworks/cn/web/)  
-[伯乐在线](http://blog.jobbole.com/)  
-[W3Cfuns](http://www.w3cfuns.com/)
+[伯乐在线](http://blog.jobbole.com/)  	
+[W3Cfuns](http://www.w3cfuns.com/)	
 
 ##扩展阅读  
 [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html)  
 [开源中最好的Web开发的资源](http://coolshell.cn/articles/4795.html)  
-[网站开发人员应该知道的61件事](http://www.ruanyifeng.com/blog/2010/11/61_things_every_web_developer_should_know.html)  
-[程序员技术练级攻略](http://coolshell.cn/articles/4990.html)  
-[Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+[网站开发人员应该知道的61件事](http://www.ruanyifeng.com/blog/2010/11/61_things_every_web_developer_should_know.html) 	 
+[程序员技术练级攻略](http://coolshell.cn/articles/4990.html)	
+[Frontend Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)	
+[Jsource : 前端资源的收集](https://github.com/airyland/Jsource)	
