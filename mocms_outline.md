@@ -17,6 +17,13 @@ MOCMS V2 开发大纲
 - News
 - FAQ
 - Gallery
+- Video
+- Contact Us
+
+##Widget
+- Banner
+- Tag Cloud
+- Social Plugins
 
 ##Idea 
 ###EAV模型
