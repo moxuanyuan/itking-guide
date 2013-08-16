@@ -1,4 +1,4 @@
-MOCMS V2 开发大纲
+MOCMS V2 Outline
 ============
 
 ##Target
