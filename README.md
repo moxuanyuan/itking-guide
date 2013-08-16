@@ -12,7 +12,7 @@ Web Development Based on PHP General Guide
 - **指南 & 规范**    
 [PHP 最佳实践](http://phpbestpractices.justjavac.com/)  
 [PHP之道](http://wulijun.github.io/php-the-right-way/)  
-[PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html) 
+[PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html)  
 [PHP PSR代码标准中文版](https://github.com/hfcorriez/fig-standards) 
  
 - **Book**  
