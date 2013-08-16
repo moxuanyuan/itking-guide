@@ -24,6 +24,7 @@ MOCMS V2 Outline
 - Banner
 - Tag Cloud
 - Social Plugins
+- Google Analytics 
 
 ##Idea 
 ###EAV模型
