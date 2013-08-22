@@ -1,7 +1,5 @@
 Web Development Based on PHP General Guide  
 ============
-希望通过整理以下的资源，让大家可以更高效、规范开发。  
-欢迎大家提供意见、资源，来完善这份指南。
 
 ##PHP
 - **必知必会**
