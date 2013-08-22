@@ -14,7 +14,7 @@ Web Development Based on PHP General Guide
 [PHP之道](http://wulijun.github.io/php-the-right-way/)  
 [PHP书写规范](http://www.cnblogs.com/sink_cup/archive/2011/07/07/php_coding_standard.html)  
 [PHP PSR代码标准中文版](https://github.com/hfcorriez/fig-standards)		
-[PHP Coding Guidelines](http://s3.ryanparman.com/php-guidelines/index.html)
+[PHP Coding Guidelines](http://s3.ryanparman.com/php-guidelines/index.html)	
 [Typecho PHP 编码规范](http://docs.typecho.org/phpcoding)
  
 - **Book**  
