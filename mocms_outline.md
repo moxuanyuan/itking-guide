@@ -1,5 +1,8 @@
-MOCMS V2 Outline
+MOCMS V2 开发大纲
 ============
+希望可以将我多年来开发web的经验总结成一个可以快速开发web的工具。
+Don't repeat yourself.	
+Best practices and experience on web.
 
 ##Target
 - module化
@@ -24,7 +27,6 @@ MOCMS V2 Outline
 - Banner
 - Tag Cloud
 - Social Plugins
-- Google Analytics 
 
 ##Idea 
 ###EAV模型
