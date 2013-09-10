@@ -5,4 +5,5 @@ ITKing Guide
 
 [Web Development Based on PHP General Guide](https://github.com/moxuanyuan/itking-guide/blob/master/general_guide.md)	
 [Framework & Library](https://github.com/moxuanyuan/itking-guide/blob/master/framework_library.md)	
-[MOCMS V2 Outline](https://github.com/moxuanyuan/itking-guide/blob/master/mocms_outline.md) 
+[MOCMS V2 Outline](https://github.com/moxuanyuan/itking-guide/blob/master/mocms_outline.md)   
+[MOCMS V2 开发时间表](https://github.com/moxuanyuan/itking-guide/blob/master/mocms_schedule.md)
